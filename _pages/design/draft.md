@@ -1,9 +1,9 @@
 ---
-title: Design Draft
-author: Tao He
-date: 2022-02-06
+title: 学习路径
+author: 万皇
+date: 2023-02-22
 category: Jekyll
 layout: post
 ---
 
-This is an draft page.
+百科.

@@ -1,9 +1,9 @@
 ---
-title: About
-author: Tao He
-date: 2022-02-04
+title: 关于
+author: 万皇
+date: 2023-02-22
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+关于本皇.
